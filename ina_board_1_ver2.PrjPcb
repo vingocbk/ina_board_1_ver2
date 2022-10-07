@@ -89,10 +89,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YRWLTJYW
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ina_board_1_ver2\Design Rule Check - board_1_ver2.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
