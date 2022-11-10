@@ -90,6 +90,94 @@ GenerateClassCluster=0
 DocumentUniqueId=YRWLTJYW
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for ina_board_1_ver2\board_1_ver2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for ina_board_1_ver2\Design Rule Check - board_1_ver2.html
 DItemRevisionGUID=
 
@@ -273,6 +361,12 @@ OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType19=Logic Analyser Print
+OutputName19=Logic Analyser Prints
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
